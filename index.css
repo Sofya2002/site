@@ -1,0 +1,149 @@
+body{
+	position: relative;
+	height: 4096px;
+    width: 1440px;
+    background-color: #ffffff;
+	background-image: url();
+	margin:0;
+}
+
+.font1{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.font2{
+	font-family: 'Rokkitt', serif;
+}
+.image1 {
+	position: absolute;
+	width: 1509px;
+	height: 360px;
+	left:209;
+	top:2735px;
+	border-radius: 0px;
+}
+.image2 {
+	position: absolute;
+	height: 1118px;
+    width: 706px;
+    left: 1026px;
+    top: 1203px;
+    border-radius: 0px;
+
+}
+.image3 {
+	position: absolute;
+	height: 34px;
+    width: 32px;
+    left: 1209px;
+    top: 4020px;
+    border-radius: 0px;
+}
+.image4 {
+    position: absolute;
+	height: 148.99999993863088px;
+    width: 584.9999998826161px;
+    left: 1056px;
+    top: 3012.475830078125px;
+    border-radius: 0px;
+
+
+}
+.image5 {
+	position: absolute;
+	height: 223px;
+    width: 239px;
+    left: 329px;
+    top: 1966px;
+    border-radius: 0px;
+
+}
+.image6 {
+    position: absolute;
+	height: 209px;
+    width: 206px;
+    left: 804px;
+    top: 1513px;
+    border-radius: 0px;
+
+}
+.image7 {
+	position: absolute;
+	height: 218px;
+    width: 210px;
+    left: 804px;
+    top: 1965px;
+    border-radius: 0px;
+
+}
+.image15 {
+	position: absolute;
+	height: 1090.7890827673855px;
+    width: 1059.1052442880593px;
+    left: 545px;
+    top: -298.522216796875px;
+    border-radius: 0px;
+
+}
+.image8 {
+	position: absolute;
+	height: 492.4316583131089px;
+    width: 772.2219515662807px;
+    left: 744px;
+    top: 275.094970703125px;
+    border-radius: 0px;
+}
+.image9 {
+	position: absolute;
+	height: 206px;
+    width: 211px;
+    left: 326px;
+    top: 1516px;
+    border-radius: 0px;
+
+}
+.image10 {
+	position: absolute;
+	height: 9.181790142713941px;
+    width: 1773.8207603750516px;
+    left: -249px;
+    top: 2706.020751953125px;
+    border-radius: 0px;
+
+}
+.image11 {
+	position: absolute;
+	height: 15px;
+    width: 1803px;
+    left: -240px;
+    top: 2523px;
+    border-radius: 0px;
+
+}
+.image12 {
+	position: absolute;
+	height: 891px;
+    width: 694px;
+    left: 43px;
+    top: 3138px;
+    border-radius: 0px;
+
+}
+.image13 {
+	position: absolute;
+	height: 42px;
+    width: 40px;
+    left: 1290px;
+    top: 4020px;
+    border-radius: 0px;
+
+}
+.image14 {
+	position: absolute;
+	height: 16px;
+    width: 38px;
+    left: 1129px;
+    top: 4029px;
+    border-radius: 0px;
+
+}
