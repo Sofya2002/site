@@ -104,10 +104,10 @@ body{
 }
 .image10 {
 	position: absolute;
-	height: 9.181790142713941px;
+	height: 500.181790142713941px;
     width: 1773.8207603750516px;
     left: -249px;
-    top: 2706.020751953125px;
+    top: 2330.020751953125px;
     border-radius: 0px;
 
 }
@@ -125,7 +125,7 @@ body{
 	height: 891px;
     width: 694px;
     left: 43px;
-    top: 3138px;
+    top: 3238px;
     border-radius: 0px;
 
 }
@@ -226,5 +226,49 @@ body{
         left: 1221px;
         top: 35px;
         border-radius: 28.53146743774414px;
+    }
+    .image25 {
+    	position: absolute;
+    	height: 459px;
+		width: 504px;
+		left: 786px;
+		top: 3183px;
+		border-radius: 45px;
+
+    }
+    .image26 {
+    	position: absolute;
+    	height: 16px;
+		width: 24px;
+		left: 927px;
+		top: 3378px;
+		border-radius: 0px;
+
+    }
+    .image27 {
+    	position: absolute;
+    	height: 16px;
+		width: 24px;
+		left: 927px;
+		top: 3444px;
+		border-radius: 0px;
+
+    }
+    .image28 {
+    	position: absolute;
+    	height: 16px;
+		width: 24px;
+		left: 927px;
+		top: 3521px;
+		border-radius: 0px;
+
+    }
+    .image29 {
+    	position: absolute;
+    	height: 730.305643631px;
+		width: 821.5593108139118px;
+		left: -360;
+		top: 3540.74609375px;
+		border-radius: 0px;
 
     }
