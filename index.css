@@ -115,7 +115,7 @@ body{
 	position: absolute;
 	height: 15px;
     width: 1803px;
-    left: -240px;
+    left: -140px;
     top: 2523px;
     border-radius: 0px;
 
@@ -147,3 +147,84 @@ body{
     border-radius: 0px;
 
 }
+.image16 {
+	position: absolute;
+	height: 100px;
+    width: 341px;
+    left: 73px;
+    top: 832px;
+    border-radius: 35px;
+
+}
+.image17 {
+	position: absolute;
+	height: 115px;
+    width: 469px;
+    left: 821px;
+    top: 1059px;
+    border-radius: 35px;
+
+}
+.image18 {
+	position: absolute;
+	height: 74px;
+    width: 302px;
+    left: 61px;
+    top: 1113px;
+    border-radius: 35px;
+
+}
+.image19 {
+    position: absolute;
+    height: 76px;
+    width: 275px;
+    left: 276px;
+    top: 1113px;
+    border-radius: 35px;
+
+}
+.image20 {
+	position: absolute;
+	height: 302px;
+    width: 299px;
+    left: 138px;
+    top: 1317px;
+    border-radius: 50px;
+
+    }
+    .image21 {
+    	position: absolute;
+    	height: 289px;
+        width: 293px;
+        left: 625px;
+        top: 1317px;
+        border-radius: 50px;
+
+    }
+    .image22 {
+    	position: absolute;
+    	height: 302px;
+        width: 299px;
+        left: 138px;
+        top: 1791px;
+        border-radius: 50px;
+
+    }
+    .image23 {
+    	position: absolute;
+    	height: 302px;
+        width: 299px;
+        left: 628px;
+        top: 1791px;
+        border-radius: 50px;
+
+    }
+    .image24 {
+    	position: absolute;
+    	height: 84px;
+        width: 179px;
+        left: 1221px;
+        top: 35px;
+        border-radius: 28.53146743774414px;
+
+    }
