@@ -5,6 +5,7 @@ body{
     background-color: #ffffff;
 	background-image: url();
 	margin:0;
+
 }
 
 .font1{
@@ -272,3 +273,157 @@ body{
 		border-radius: 0px;
 
     }
+    .pizza {
+    	position: absolute;
+    	height: 711px;
+		width: 353px;
+		left: 100px;
+		top: 25px;
+		border-radius: nullpx;
+
+    }
+    .pizza1 {
+    	position: absolute;
+    	height: 136px;
+		width: 187px;
+		left: 186px;
+		top: 1335px;
+		border-radius: nullpx;
+
+    }
+    .pizza01 {
+    	position: absolute;
+    	height: 150px;
+		width: 200px;
+		left: 173px;
+		top: 1425px;
+		border-radius: nullpx;
+
+    }
+    .pizza2{
+    	position: absolute;
+    	height: 49px;
+		width: 191px;
+		left: 676px;
+		top: 1380px;
+		border-radius: undefinedpx;
+
+    }
+    .pizza02 {
+    	position: absolute;
+    	height: 152px;
+		width: 200px;
+		left: 668px;
+		top: 1429px;
+		border-radius: undefinedpx;
+
+    }
+    .pizza3 {
+    	position: absolute;
+    	height: 67px;
+		width: 209px;
+		left: 183px;
+		top: 1826px;
+		border-radius: undefinedpx;
+
+
+    }
+    .pizza03 {
+    	position: absolute;
+    	height: 90px;
+		width: 274px;
+		left: 147px;
+		top: 1900px;
+		border-radius: undefinedpx;
+
+    }
+    .pizza4 {
+    	position: absolute;
+    	height: 92px;
+		width: 216px;
+		left: 630px;
+		top: 1830px;
+		border-radius: undefinedpx;
+
+    }
+    .pizza04 {
+    	position: absolute;
+    	height: 102px;
+		width: 151px;
+		left: 670px;
+		top: 1933px;
+		border-radius: undefinedpx;
+
+    }
+    .work {
+    	position:absolute;
+    	height: 75px;
+		width: 544px;
+		left: 573px;
+		top: 2813px;
+		border-radius: undefinedpx;
+ 
+
+    }
+    .preim {
+    	position: absolute;
+    	height: 542.64462661743164px;
+		width: 215px;
+		left: 823px;
+		top: 3730px;
+		border-radius: undefinedpx;
+
+    }
+    .header {
+    	position: fixed;
+    	display: flex;
+    	flex-wrap: wrap;
+    	align-items: flex-end;
+    	justify-content: space-between;
+    	top:0;
+    	left: 0;
+    	width: 100%;
+    }
+    .header_list {
+    	display:flex;
+    	flex-wrap: wrap;
+    	
+    }
+    .header_item{
+    	margin-right:100px;
+    	margin-top: 10px;
+    	
+		}
+    .header_link{
+    	font-family: Rokkitt;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 18px;
+		line-height: 20px;
+		color: #7D0A0A;
+		text-decoration: none;
+
+	}
+	.header_link:hover{
+		color: #FF0000;
+		text-decoration: underline;
+
+	}
+	
+	.image24 {
+		transition: 0.5s
+	}
+	.image24:hover {
+		transform: scale(1.15);
+	}
+	.krasn{
+		position: absolute;
+		height: 31.928104400634766px;
+		width: 168.8157958984375px;
+		left: 1225px;
+		top: 68px;
+		border-radius: nullpx;
+
+
+	}
+    
