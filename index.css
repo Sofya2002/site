@@ -426,4 +426,53 @@ body{
 
 
 	}
+	.zakaz{
+		position: absolute;
+		height: 39px;
+		width: 280px;
+		left: 105px;
+		top: 857px;
+		border-radius: nullpx;
+
+	}
+	.image16{
+		transition: 0.5s;
+	}
+	.image16:hover {
+		transform : scale(1.15);
+	}
+	.image17{
+		transition: 0.5s;
+	}
+	.image17:hover {
+		transform : scale(1.15);
+	}
+	.zakaz2{
+		position: absolute;
+		height: 36px;
+		width: 364px;
+		left: 863px;
+		top: 1100px;
+		border-radius: nullpx;
+
+	}
+
+
     
+
+    
+    
+    
+    
+
+   
+
+
+
+   
+
+    
+    
+
+ 
+
