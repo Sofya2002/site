@@ -1,4 +1,4 @@
-body{
+
 	position: relative;
 	height: 4096px;
     width: 1440px;
@@ -66,6 +66,24 @@ body{
     left: 804px;
     top: 1513px;
     border-radius: 0px;
+
+}
+.strelochka{
+	position: absolute;
+	height: 39px;
+	width: 50px;
+	left: 965px;
+	top: 1435px;
+	border-radius: 0px;
+
+}
+.strelochka2{
+	position: absolute;
+	height: 39px;
+	width: 50px;
+	left: 975px;
+	top: 1930px;
+	border-radius: 0px;
 
 }
 .image7 {
@@ -456,23 +474,39 @@ body{
 		border-radius: nullpx;
 
 	}
-
-
-    
-
-    
-    
-    
-    
-
-   
-
-
-
-   
-
-    
-    
-
- 
+	.strelochka{
+		transition: 0.5s;
+	}
+	.strelochka:hover{
+		transform : scale(1.15);
+		
+	}
+	.strelochka2{
+		transition: 0.5s;
+	}
+	.strelochka2:hover{
+		transform : scale(1.15);
+		
+	}
+	.image3{
+		transition: 0.5s;
+	}
+	.image3:hover{
+		transform : scale(1.15);
+		
+	}
+	.image13{
+		transition: 0.5s;
+	}
+	.image13:hover{
+		transform : scale(1.15);
+		
+	}
+	.image14{
+		transition: 0.5s;
+	}
+	.image14:hover{
+		transform : scale(1.15);
+		
+	}
 
