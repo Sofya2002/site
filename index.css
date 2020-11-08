@@ -478,14 +478,14 @@ body{
 		transition: 0.5s;
 	}
 	.strelochka:hover{
-		transform : scale(1.15);
+		transform : scale(1.5);
 		
 	}
 	.strelochka2{
 		transition: 0.5s;
 	}
 	.strelochka2:hover{
-		transform : scale(1.15);
+		transform : scale(1.5);
 		
 	}
 	.image3{
@@ -509,4 +509,71 @@ body{
 		transform : scale(1.15);
 		
 	}
+	
+	.menu{
+		position: absolute;
+		height: 35px;
+		width: 168px;
+		left: 105px;
+		top: 1133px;
+		border-radius: nullpx;
+
+	}
+	.recomend{
+		position: absolute;
+		height: 34px;
+		width: 337px;
+		left: 248px;
+		top: 1132px;
+		border-radius: nullpx;
+
+
+	}
+	.menu{
+		transition: 0.5s;
+	}
+	.menu:hover{
+		transform : scale(1.15);
+	}
+	.recomend{
+		transition: 0.5s;
+	}
+	.recomend:hover{
+		transform : scale(1.10);
+	}
+	.a1{
+		position: relative;
+		font-family: Rokkitt;
+		font-size: 25px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 37px;
+		letter-spacing: 0em;
+		text-align: left;
+		color: #ffffff;
+
+
+	}
+	.a{
+		padding-left: 135ex;
+			padding-top: 460ex;
+    		
+}
+    
+
+    
+    
+    
+    
+
+   
+
+
+
+   
+
+    
+    
+
+ 
 
